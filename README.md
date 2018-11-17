@@ -4,4 +4,4 @@
 
 | phase             |    file         |
 |------------------:|:----------------|
-| phase 2           | phase_2 [(phase_2.docx)]|
+| phase 2           | [phase 2](phase_2.docx)|
