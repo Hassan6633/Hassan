@@ -4,6 +4,7 @@
 
 | phase             |    file                |
 |------------------:|:-----------------------|
-| phase 1           | [phase 1](phase 1-2.docx)|
-| phase 2           | [phase 2](phase_2.docx)|
+| phase 0           | [phase 0](phase 0.pdf) |
+| phase 1           | [phase 1](phase 1.docx)|
+| phase 2           | [phase 2](phase 2.docx)|
 |
